@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+            h1 {color:rgb(224, 67, 224);
+                font-style:italic;
+                font-family:"Brush Script MT"                 , Comic Sans MS;
+                text-align: center;
+            }
+            
+            h2 {color:rgb(113, 29, 158);
+                font-family:"";
+                font-size: 3em;
+                text-align: center;
+                line-height:0.3em;
+            }
+            
+            body {background-color:pink;}
+            
+            ul {background-color:white; 
+                margin-left: 3.5em;
+                margin-right:3.5em;
+                text-align: left;
+            }
+            
+            #food-images {margin-left:0.7em;}
+            
+            #container {margin:auto;
+                border: 1px solid ;
+            }
+            
+            p {margin-left: 1.5em;}
+            
+        </style>
+    </head>
+    <body>
+    <div id="container">
+        <h1>You are Cordially Invited to...
+                    
+        </h1>
+        <h2>Afternoon Tea</h2>
+        
+        <p><strong>Please join us:</strong></p>
+        <ul>
+            <li>On: 28th April 2025</li>
+            <li>Time: 3.00 pm</li>
+            <li><em>At: Willow Bough Tea Rooms, Merton Abbey Mills, SW19 2RD</em></li>
+            <li>RSVP: janedoe@gmail.com</li>
+        </ul>
+        
+        <div id="food-images"><img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/cake.png" alt="strawberry cake" width="200">
+        
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/chocolates.png" alt="box of chocolates" width="200"></div>
+    </div>
+    </body>
+</html>
